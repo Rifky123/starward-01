@@ -1,5 +1,6 @@
 [
-  { "name": "1-start.jpg", "query": "?shot=start&seed=1" },
-  { "name": "2-play.jpg", "query": "?shot=play&seed=1" },
-  { "name": "3-end.jpg", "query": "?shot=end&seed=1" }
+  { "name": "1-table.jpg", "query": "?shot=table&seed=11", "w": 1280, "h": 800 },
+  { "name": "2-title.jpg", "query": "?shot=title&seed=5", "w": 1280, "h": 800 },
+  { "name": "3-win.jpg", "query": "?shot=win&seed=5", "w": 1280, "h": 800 },
+  { "name": "4-loss.jpg", "query": "?shot=loss&seed=5", "w": 1280, "h": 800 }
 ]
